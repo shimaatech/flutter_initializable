@@ -1,4 +1,4 @@
-name: flutterinitializable
+name: flutter_initializable
 description: An abstract class for objects (services) that need to be initialized before usage
 version: 0.0.1
 author:
